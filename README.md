@@ -37,7 +37,7 @@ A Netflix Clone built using React and Vite, replicating the core UI and features
 
 Clone the repository
 
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/l44lu/netflix-clone.git
 
 
 
