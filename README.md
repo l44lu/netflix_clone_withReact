@@ -31,13 +31,7 @@ A Netflix Clone built using React and Vite, replicating the core UI and features
 
 🧠 Clean code with hooks and reusable components
 
-📸 Preview
-Home Page	Movie Rows	Modal
 
-	
-	
-
-(Add your screenshots inside a /screenshots folder to display them here)
 
 🛠 Installation & Setup
 
@@ -46,29 +40,6 @@ Clone the repository
 git clone https://github.com/your-username/netflix-clone.git
 
 
-Navigate into the project
-
-cd netflix-clone
-
-
-Install dependencies
-
-npm install
-
-
-Run the development server
-
-npm run dev
-
-
-Open http://localhost:5173
- in your browser.
-
-🧪 Linting
-
-This project uses ESLint for code quality and formatting.
-
-npm run lint
 
 📝 Roadmap
 
