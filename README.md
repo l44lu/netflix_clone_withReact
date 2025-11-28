@@ -1,66 +1,18 @@
-🎬 Netflix Clone (React + Vite)
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-A Netflix Clone built using React and Vite, replicating the core UI and features of Netflix while applying modern frontend development practices.
+## React Compiler
 
-🚀 Tech Stack
+The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
 
-⚛ React – UI Library
+Note: This will impact Vite dev & build performances.
 
-⚡ Vite – Lightning-fast build tool
+## Expanding the ESLint configuration
 
-🧭 React Router – Navigation and routing
-
-🎨 CSS / Tailwind CSS – Styling and responsiveness
-
-🌐 TMDB API – Movie data & posters
-
-✨ Features
-
-🏠 Netflix-style homepage with banner and movie rows
-
-🖼 Horizontal scrolling movie sections
-
-🔍 Search functionality
-
-🧭 Multi-page navigation with React Router
-
-📱 Fully responsive for mobile, tablet, and desktop
-
-🧠 Clean code with hooks and reusable components
-
-
-
-🛠 Installation & Setup
-
-Clone the repository
-
-git clone https://github.com/l44lu/netflix_clone_withReact.git
-
-
-
-📝 Roadmap
-
- 🔐 Add Authentication (e.g., Firebase)
-
- ⭐ “My List” functionality
-
- 🎥 Video playback integration
-
- 🌍 Deploy on Vercel/Netlify
-
-📚 Resources
-
-React Documentation
-
-Vite Documentation
-
-TMDB API Docs
-
-📄 License
-
-This project is licensed under the MIT License
-.
-It is created for educational purposes and is not affiliated with Netflix.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
